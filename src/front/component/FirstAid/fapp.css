@@ -1,0 +1,59 @@
+
+.body {
+  background-image: url("175-1758883_medical-background-free-image-background-for-hospital-website.png");
+  /* background-color: rgb(1, 38, 44); */
+  height: 100vh;
+  
+}.App {
+  text-align: center;
+  background-color: rgb(242, 247, 245);
+  border: #61dafb solid 2px;
+  height: 80vh;
+}
+.check{
+  margin: 20px;
+  
+}
+.bt1 {
+  
+  background-color: rgb(25, 38, 41);
+  margin: 10px;
+  
+}
+input{
+  text-align: center;
+  margin: -10px;
+}
+.source-text{
+  /* width: 50%; */
+  background-color: rgb(45, 66, 71);
+  color: rgb(141, 199, 238);
+  align-items: center;
+  text-align: center;
+  margin-right: 25px;
+  margin-left: 25px;
+}
+.firstAid1{
+  background-color: rgb(45, 97, 106);
+  
+  color: rgb(90, 173, 245);
+  text-align: left;
+  
+}
+.lbl{
+  background-color: rgb(51, 81, 88); 
+  color: #dee8eb;
+}
+
+.firstAid2{
+  background-color: rgb(68, 128, 138);
+  color: aliceblue;
+  text-align: right;
+  
+}
+
+.pred{
+  display: flex;
+  
+}
+
